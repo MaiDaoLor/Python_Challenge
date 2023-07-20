@@ -1,5 +1,6 @@
 # Python_Challenge
 Moduel 3
+___________________________________________________________________________________________________________________________________________________________________________________________________________
 
 PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
@@ -19,6 +20,8 @@ Total: $22564198
 Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
